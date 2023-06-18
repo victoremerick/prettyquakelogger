@@ -29,7 +29,7 @@ Preety Quake Logger has the following features:
 ## Project Structure
 
 - `quakelogger-frontend/`: Contains the source code for the frontend of the application.
-- `quakelogger-backend/`: Contains the source code for the backend of the application.
+- `quakelogger/`: Contains the source code for the backend of the application.
 
 ## Development Environment Setup
 
