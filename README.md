@@ -1,4 +1,4 @@
-# Preety Quake Logger
+# Pretty Quake Logger
 
 This repository contains the source code for the Preety Quake Logger system, which is a web application for processing and displaying logs of Quake matches in a more user-friendly way.
 
